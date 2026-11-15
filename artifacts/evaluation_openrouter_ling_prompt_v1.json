@@ -1,0 +1,592 @@
+{
+  "created_at": "2026-11-15T19:32:55.861800+00:00",
+  "mode": "openrouter",
+  "environment": {
+    "python": "3.11.5",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "packages": {
+      "pydantic": "2.13.3",
+      "httpx": "0.28.1",
+      "scikit-learn": "1.4.0",
+      "numpy": "1.26.4",
+      "streamlit": "1.67.0",
+      "pypdf": "7.1.0",
+      "pytest": "9.0.3"
+    }
+  },
+  "fingerprints": {
+    "app.py": "37feab03fbdbf834dee07b6e388cd3b7191b7462771b4fdce1704dc6ad9a8d0d",
+    "data\\jobs.json": "2eecaa03b92ab2814b0dca1ee107b6f87efd34f70f8e19d1e64a8b1397d84f45",
+    "evaluation\\extraction_cases.json": "b9f3cb3dba82ec611eed0280b37bcbdb8b08152e7cba849a72204a742ae2d577",
+    "evaluation\\ranking_pool.json": "327255d9a866259e4254be9891333def724da3ae2e3fee727ab624b40faed5a1",
+    "src\\jobmatch\\__init__.py": "1d627680ba75c36ff9d574697a6b8f705af1d28e074f134bcdbc88fc9b22fd4b",
+    "src\\jobmatch\\export.py": "333100359da8b28f905ae959a8afb30b85957a3d738a5903afb0681c9aeacd57",
+    "src\\jobmatch\\extraction.py": "2c5bee14792221d2833536d02ea8d3c3cedd4360bfa483b5509f414509bccd1f",
+    "src\\jobmatch\\llm.py": "5a2c66e1b877a9c5a7ee23c9b730c2c8ffdae9d351d1db95f0d69d182c491c9a",
+    "src\\jobmatch\\models.py": "af6008ff37bdeb928bf72d7fe59b03ace19df58588c249f221ec77e3cb59484b",
+    "src\\jobmatch\\search.py": "795ebef8a80abdbbc706fb14d783376bcfcf706fc4fddcd621d1419a003455a7",
+    "src\\jobmatch\\sources.py": "fa90d570908dc2e93025cc78aff199a20429b826b88407d48859d7b6f2cebaeb"
+  },
+  "extraction": {
+    "metrics": {
+      "development": {
+        "cases": 4,
+        "successful": 3,
+        "tp": 3,
+        "fp": 0,
+        "fn": 5,
+        "skill_micro_precision": 1.0,
+        "skill_micro_recall": 0.375,
+        "skill_micro_f1": 0.5454545454545454,
+        "years_accuracy": 0.75,
+        "english_accuracy": 0.75,
+        "valid_quotes": 5,
+        "quote_integrity_successful_outputs": 1.0
+      },
+      "held-out": {
+        "cases": 8,
+        "successful": 5,
+        "tp": 11,
+        "fp": 0,
+        "fn": 21,
+        "skill_micro_precision": 1.0,
+        "skill_micro_recall": 0.34375,
+        "skill_micro_f1": 0.5116279069767442,
+        "years_accuracy": 0.5,
+        "english_accuracy": 0.25,
+        "valid_quotes": 14,
+        "quote_integrity_successful_outputs": 1.0
+      }
+    },
+    "cases": [
+      {
+        "id": "dev-basic",
+        "split": "development",
+        "success": true,
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "extra_skills": [],
+        "missed_skills": [],
+        "years_correct": true,
+        "years_predicted": 2.0,
+        "years_reference": 2,
+        "english_correct": true,
+        "quote_count": 5,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 3.3387571000021126
+      },
+      {
+        "id": "dev-alias",
+        "split": "development",
+        "success": false,
+        "error": "CV extraction failed schema validation: [{\"location\": [\"schema_version\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"candidate\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"experience_years\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"english_level\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"evidence\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"notes\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 0], \"type\": \"model_type\"}, {\"location\": [\"skills\", 1], \"type\": \"model_type\"}, {\"location\": [\"skills\", 2], \"type\": \"model_type\"}, {\"location\": [\"years_experience\"], \"type\": \"missing\"}, {\"location\": [\"years_evidence\"], \"type\": \"missing\"}, {\"location\": [\"english\"], \"type\": \"missing\"}, {\"location\": [\"english_evidence\"], \"type\": \"missing\"}]; no local fallback was substituted.",
+        "seconds": 11.818647599997348
+      },
+      {
+        "id": "dev-boundary",
+        "split": "development",
+        "success": true,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2,
+        "extra_skills": [],
+        "missed_skills": [
+          "javascript",
+          "react"
+        ],
+        "years_correct": true,
+        "years_predicted": null,
+        "years_reference": null,
+        "english_correct": true,
+        "quote_count": 0,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 2.121005100001639
+      },
+      {
+        "id": "dev-unknown",
+        "split": "development",
+        "success": true,
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "extra_skills": [],
+        "missed_skills": [],
+        "years_correct": true,
+        "years_predicted": null,
+        "years_reference": null,
+        "english_correct": true,
+        "quote_count": 0,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 2.060030699998606
+      },
+      {
+        "id": "test-engineer",
+        "split": "held-out",
+        "success": false,
+        "error": "CV extraction failed schema validation: [{\"location\": [\"total_experience_years\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"total_experience_evidence\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"english_level\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 0, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 0, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 1, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 1, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 2, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 2, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 3, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 3, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 4, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 4, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 5, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 5, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 6, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 6, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 7, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 7, \"name\"], \"type\": \"missing\"}, {\"location\": [\"years_experience\"], \"type\": \"missing\"}, {\"location\": [\"years_evidence\"], \"type\": \"missing\"}, {\"location\": [\"english\"], \"type\": \"missing\"}]; no local fallback was substituted.",
+        "seconds": 2.635063000001537
+      },
+      {
+        "id": "test-analyst-uk",
+        "split": "held-out",
+        "success": true,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "extra_skills": [],
+        "missed_skills": [
+          "excel",
+          "power bi",
+          "python",
+          "sql"
+        ],
+        "years_correct": false,
+        "years_predicted": null,
+        "years_reference": 2,
+        "english_correct": false,
+        "quote_count": 0,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 9.785394099999394
+      },
+      {
+        "id": "test-ml",
+        "split": "held-out",
+        "success": false,
+        "error": "CV extraction failed schema validation: [{\"location\": [\"schema\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\"], \"type\": \"missing\"}, {\"location\": [\"years_experience\"], \"type\": \"missing\"}, {\"location\": [\"years_evidence\"], \"type\": \"missing\"}, {\"location\": [\"english\"], \"type\": \"missing\"}, {\"location\": [\"english_evidence\"], \"type\": \"missing\"}, {\"location\": [\"mode\"], \"type\": \"missing\"}]; no local fallback was substituted.",
+        "seconds": 2.6412199000005785
+      },
+      {
+        "id": "test-negative",
+        "split": "held-out",
+        "success": true,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2,
+        "extra_skills": [],
+        "missed_skills": [
+          "excel",
+          "sql"
+        ],
+        "years_correct": true,
+        "years_predicted": null,
+        "years_reference": null,
+        "english_correct": false,
+        "quote_count": 0,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 5.621844499997678
+      },
+      {
+        "id": "test-ambiguous-years",
+        "split": "held-out",
+        "success": false,
+        "error": "CV extraction failed schema validation: [{\"location\": [\"total_experience_years\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"total_experience_evidence\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"english_level\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 0, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 0, \"name\"], \"type\": \"missing\"}, {\"location\": [\"skills\", 1, \"skill\"], \"type\": \"extra_forbidden\"}, {\"location\": [\"skills\", 1, \"name\"], \"type\": \"missing\"}, {\"location\": [\"years_experience\"], \"type\": \"missing\"}, {\"location\": [\"years_evidence\"], \"type\": \"missing\"}, {\"location\": [\"english\"], \"type\": \"missing\"}, {\"location\": [\"mode\"], \"type\": \"missing\"}]; no local fallback was substituted.",
+        "seconds": 2.79560919999858
+      },
+      {
+        "id": "test-vocabulary",
+        "split": "held-out",
+        "success": true,
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "extra_skills": [],
+        "missed_skills": [],
+        "years_correct": true,
+        "years_predicted": 4.0,
+        "years_reference": 4,
+        "english_correct": true,
+        "quote_count": 5,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 4.1478262999989965
+      },
+      {
+        "id": "test-dates",
+        "split": "held-out",
+        "success": true,
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "extra_skills": [],
+        "missed_skills": [],
+        "years_correct": true,
+        "years_predicted": null,
+        "years_reference": null,
+        "english_correct": true,
+        "quote_count": 3,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 2.1788841000015964
+      },
+      {
+        "id": "test-systems",
+        "split": "held-out",
+        "success": true,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "extra_skills": [],
+        "missed_skills": [],
+        "years_correct": true,
+        "years_predicted": 1.5,
+        "years_reference": 1.5,
+        "english_correct": false,
+        "quote_count": 6,
+        "quote_valid": true,
+        "actual_mode": "openrouter:inclusionai/ling-3.2-flash:free",
+        "seconds": 4.064343800000643
+      }
+    ]
+  },
+  "ranking": {
+    "pool_size": 16,
+    "queries": 3,
+    "judgments": 48,
+    "human_reviewed": false,
+    "per_query": [
+      {
+        "query": "analytics",
+        "method": "lexical",
+        "precision_at_5": 0.8,
+        "ndcg_at_5": 0.7844091387764691,
+        "returned": 5,
+        "seconds": 0.10756969999783905,
+        "ranked": [
+          {
+            "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+            "title": "Dashboard Engineer в продуктову компанію",
+            "grade": 2,
+            "score": 0.1431164996343487
+          },
+          {
+            "id": "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977",
+            "title": "Data analyst",
+            "grade": 3,
+            "score": 0.11098021073293429
+          },
+          {
+            "id": "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc",
+            "title": "Data analyst",
+            "grade": 3,
+            "score": 0.10421842733370727
+          },
+          {
+            "id": "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda",
+            "title": "Data інженер/Data developer (Hadoop/Cloudera, Spark, Scala)",
+            "grade": 0,
+            "score": 0.1002949166830157
+          },
+          {
+            "id": "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6",
+            "title": "Data Analyst",
+            "grade": 3,
+            "score": 0.08981579921292138
+          }
+        ],
+        "rejected": []
+      },
+      {
+        "query": "analytics",
+        "method": "skill-aware",
+        "precision_at_5": 1.0,
+        "ndcg_at_5": 0.8428310557745478,
+        "returned": 5,
+        "seconds": 0.0993499000032898,
+        "ranked": [
+          {
+            "id": "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb",
+            "title": "Data analyst",
+            "grade": 2,
+            "score": 0.429479322192172
+          },
+          {
+            "id": "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977",
+            "title": "Data analyst",
+            "grade": 3,
+            "score": 0.4252900542232425
+          },
+          {
+            "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+            "title": "Dashboard Engineer в продуктову компанію",
+            "grade": 2,
+            "score": 0.4166278353419788
+          },
+          {
+            "id": "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6",
+            "title": "Data Analyst",
+            "grade": 3,
+            "score": 0.41497229890307114
+          },
+          {
+            "id": "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc",
+            "title": "Data analyst",
+            "grade": 3,
+            "score": 0.3336030316049772
+          }
+        ],
+        "rejected": []
+      },
+      {
+        "query": "engineering",
+        "method": "lexical",
+        "precision_at_5": 0.4,
+        "ndcg_at_5": 0.811707273259134,
+        "returned": 5,
+        "seconds": 0.10861649999787915,
+        "ranked": [
+          {
+            "id": "djinni:92d50613-2604-5be6-b157-ca6f00081f61",
+            "title": "Data Tech Lead for a big banking project",
+            "grade": 3,
+            "score": 0.28887393318090426
+          },
+          {
+            "id": "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda",
+            "title": "Data інженер/Data developer (Hadoop/Cloudera, Spark, Scala)",
+            "grade": 3,
+            "score": 0.17274342541391569
+          },
+          {
+            "id": "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513",
+            "title": "BSS configuration & support engineer",
+            "grade": 0,
+            "score": 0.10123958413562378
+          },
+          {
+            "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+            "title": "Dashboard Engineer в продуктову компанію",
+            "grade": 1,
+            "score": 0.07694691853681863
+          },
+          {
+            "id": "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49",
+            "title": "Deep Learning Engineer",
+            "grade": 0,
+            "score": 0.06588937860447258
+          }
+        ],
+        "rejected": []
+      },
+      {
+        "query": "engineering",
+        "method": "skill-aware",
+        "precision_at_5": 0.6,
+        "ndcg_at_5": 0.8776614788035696,
+        "returned": 5,
+        "seconds": 0.11255820000224048,
+        "ranked": [
+          {
+            "id": "djinni:92d50613-2604-5be6-b157-ca6f00081f61",
+            "title": "Data Tech Lead for a big banking project",
+            "grade": 3,
+            "score": 0.5567385295418535
+          },
+          {
+            "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+            "title": "Dashboard Engineer в продуктову компанію",
+            "grade": 1,
+            "score": 0.40779815634895883
+          },
+          {
+            "id": "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda",
+            "title": "Data інженер/Data developer (Hadoop/Cloudera, Spark, Scala)",
+            "grade": 3,
+            "score": 0.3397864803103904
+          },
+          {
+            "id": "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6",
+            "title": "Data Analyst",
+            "grade": 2,
+            "score": 0.26642018883236
+          },
+          {
+            "id": "djinni:339128eb-2340-5608-87b8-ef48171ce8ea",
+            "title": "DevOPS/ Python Developer",
+            "grade": 1,
+            "score": 0.21145726788528846
+          }
+        ],
+        "rejected": []
+      },
+      {
+        "query": "ml",
+        "method": "lexical",
+        "precision_at_5": 0.2,
+        "ndcg_at_5": 0.8862616963116376,
+        "returned": 5,
+        "seconds": 0.1262910000004922,
+        "ranked": [
+          {
+            "id": "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49",
+            "title": "Deep Learning Engineer",
+            "grade": 3,
+            "score": 0.18733304589387795
+          },
+          {
+            "id": "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513",
+            "title": "BSS configuration & support engineer",
+            "grade": 0,
+            "score": 0.13145489715442538
+          },
+          {
+            "id": "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda",
+            "title": "Data інженер/Data developer (Hadoop/Cloudera, Spark, Scala)",
+            "grade": 1,
+            "score": 0.09738638524441491
+          },
+          {
+            "id": "djinni:92d50613-2604-5be6-b157-ca6f00081f61",
+            "title": "Data Tech Lead for a big banking project",
+            "grade": 1,
+            "score": 0.09315111153399248
+          },
+          {
+            "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+            "title": "Dashboard Engineer в продуктову компанію",
+            "grade": 0,
+            "score": 0.051832514693265226
+          }
+        ],
+        "rejected": []
+      },
+      {
+        "query": "ml",
+        "method": "skill-aware",
+        "precision_at_5": 0.2,
+        "ndcg_at_5": 0.8813643446830882,
+        "returned": 5,
+        "seconds": 0.10370229999898584,
+        "ranked": [
+          {
+            "id": "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49",
+            "title": "Deep Learning Engineer",
+            "grade": 3,
+            "score": 0.45053747976784686
+          },
+          {
+            "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+            "title": "Dashboard Engineer в продуктову компанію",
+            "grade": 0,
+            "score": 0.3947821044984239
+          },
+          {
+            "id": "djinni:3e8ffaec-d527-5101-ae38-c0452e8af0a5",
+            "title": "Data Solution Architect",
+            "grade": 1,
+            "score": 0.2607654121607379
+          },
+          {
+            "id": "djinni:339128eb-2340-5608-87b8-ef48171ce8ea",
+            "title": "DevOPS/ Python Developer",
+            "grade": 0,
+            "score": 0.20816769235556157
+          },
+          {
+            "id": "djinni:92d50613-2604-5be6-b157-ca6f00081f61",
+            "title": "Data Tech Lead for a big banking project",
+            "grade": 1,
+            "score": 0.2061558870027117
+          }
+        ],
+        "rejected": []
+      }
+    ],
+    "macro": {
+      "lexical": {
+        "precision_at_5": 0.46666666666666673,
+        "ndcg_at_5": 0.8274593694490804
+      },
+      "skill-aware": {
+        "precision_at_5": 0.6,
+        "ndcg_at_5": 0.867285626420402
+      }
+    }
+  },
+  "operational": {
+    "corpus": {
+      "records": 1000,
+      "distinct_ids": 1000,
+      "nonempty_descriptions": 1000,
+      "historical": 1000,
+      "urls_available": 0,
+      "unknown_ukraine": 1000,
+      "unknown_remote": 1000,
+      "unknown_english": 382,
+      "unknown_min_years": 0,
+      "categories": {
+        "Other": 104,
+        "DevOps": 108,
+        "SQL": 24,
+        "Lead": 7,
+        "Sysadmin": 3,
+        "Support": 9,
+        "Java": 8,
+        "Marketing": 89,
+        "Unity": 16,
+        "Artist": 38,
+        "JavaScript": 89,
+        "Design": 32,
+        "Android": 116,
+        "QA Automation": 39,
+        "Node.js": 6,
+        "Sales": 9,
+        "Business Analyst": 81,
+        ".NET": 37,
+        "HR": 1,
+        "Security": 12,
+        "Python": 28,
+        "C++": 5,
+        "Data Science": 18,
+        "Data Engineer": 4,
+        "Data Analyst": 59,
+        "QA": 11,
+        "Project Manager": 16,
+        "Product Manager": 3,
+        "Ruby": 9,
+        "PHP": 6,
+        "Recruiter": 1,
+        "SEO": 11,
+        "Golang": 1
+      }
+    },
+    "feed_snapshot": {
+      "records": 50,
+      "distinct_urls": 50,
+      "known_ukraine": 23,
+      "unknown_ukraine": 23,
+      "retrieved_at": "2026-11-15T16:07:13.959259+00:00",
+      "ranked": 5,
+      "status": "previously retrieved public feed; not a fresh evaluation-time fetch"
+    },
+    "end_to_end": {
+      "source": "historical",
+      "returned": 10,
+      "searched": 1000,
+      "index_seconds": 3.998151899999357,
+      "rank_seconds": 2.4685786999980337,
+      "paired_evidence_spans": 26,
+      "all_quote_pairs_valid": true,
+      "export_formats": 3,
+      "export_id_order_consistent": true,
+      "top_ids": [
+        "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+        "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb",
+        "djinni:75e08654-1735-5926-912b-97dc3bb33115",
+        "djinni:c38bf1cf-ebaf-5a78-90f3-88ffb90e7cf7",
+        "djinni:decb9491-8cda-5194-a327-5689c5c5c378",
+        "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6",
+        "djinni:cdb8424e-c04f-567c-b7c3-9e89c8ec96f0",
+        "djinni:4a24c113-b008-5d09-a0b2-957d24290c84",
+        "djinni:59139aac-faec-5a1c-99b7-0586101a54d9",
+        "djinni:dc45822b-999b-546f-8160-b6b260cda533"
+      ],
+      "synthetic_cv": true
+    }
+  }
+}

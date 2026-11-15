@@ -1,0 +1,6 @@
+Synthetic demonstration profile, not a real person's CV.
+I am interested in Data Engineering, Data Analytics and AI/ML Engineer roles.
+I have 2 years of experience in data projects.
+My skills include Python, SQL, Pandas, NumPy, PostgreSQL, Git, Docker, Excel and Power BI.
+I have built data preparation scripts and reporting dashboards.
+English B2.

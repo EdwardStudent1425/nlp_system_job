@@ -1,0 +1,3018 @@
+{
+  "created_at": "2026-11-15T21:26:46.512877+00:00",
+  "profile": {
+    "skills": [
+      {
+        "name": "python",
+        "evidence": "Python"
+      },
+      {
+        "name": "sql",
+        "evidence": "SQL"
+      },
+      {
+        "name": "pandas",
+        "evidence": "Pandas"
+      },
+      {
+        "name": "numpy",
+        "evidence": "NumPy"
+      },
+      {
+        "name": "docker",
+        "evidence": "Docker"
+      },
+      {
+        "name": "git",
+        "evidence": "Git"
+      },
+      {
+        "name": "postgresql",
+        "evidence": "PostgreSQL"
+      },
+      {
+        "name": "excel",
+        "evidence": "Excel"
+      },
+      {
+        "name": "power bi",
+        "evidence": "Power BI"
+      }
+    ],
+    "years_experience": 2.0,
+    "years_evidence": "2 years of experience",
+    "english": "B2",
+    "english_evidence": "English B2",
+    "mode": "local-rule-baseline"
+  },
+  "preferences": {
+    "role": "Data Analytics",
+    "city": "",
+    "remote_only": false,
+    "include_unknown": true,
+    "confirmed": true
+  },
+  "diagnostics": {
+    "method": "skill-aware",
+    "searched": 1000,
+    "eligible": 592,
+    "rejected": [
+      {
+        "job_id": "djinni:3f65951b-c5c3-5472-a39b-6bbf516addc1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:741d9555-9324-54ca-af5b-de4887b0f978",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5002f118-575e-5325-83c5-8075e5554bdf",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:70a9a45b-302f-59a5-a4e1-ee0da427a5f1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:06fa8d14-cea2-5795-9d7d-783eadaab397",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3aaaebc6-36ce-5656-b0c6-1aa699f6198f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6cce6c94-44dc-5ec8-8130-67150d98ae81",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:093fdecb-7bc6-5494-84ea-aec57acf1518",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:703f7972-9712-5429-a9ec-9bbb44f146e9",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f9fde971-7fe9-543a-b04f-ff939644744f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7a6d77ac-01f4-54c4-befc-6db8d341dd09",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:07ce2c60-2865-5a18-8562-61306a97511f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8f29101c-354e-537f-8af3-9ae3d7acd204",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9f2806a5-72b1-56e8-8c5b-79c5470af318",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4e66abbc-daf8-5aac-96e9-f824106eb163",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1fc1f84a-3f0d-5b90-b70c-249c70a413a5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2c435bba-ea3d-5752-a0cb-862c5a0ed4e2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:762666a3-7bb9-56fd-b7c0-71f0c1a7c525",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a1a007d9-28fd-5153-876f-3d2a066cff87",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:31a27f43-8dd1-5219-9d14-53dd2467adb6",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:bd1f3784-912c-5cea-9bc4-4705457da2f1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0169a50c-8f8e-5818-be38-156997fcea04",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2486d050-4bb7-5307-86a2-66337f01eb24",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:04a370f8-4f0f-55d0-a598-1297b67aaade",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6eeb25c6-20b6-5f3d-b129-2f538b122c8a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:fdefb69e-ddc6-583c-adb3-67c3c1b377c3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cb258024-29b6-5824-9931-32688291447c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:845f347a-259d-5a4d-b507-11a914740801",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:70bfcf01-e524-5e06-97ce-a3f039972de0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6d646a7b-fa8f-5d56-9f50-f5bc5d598c7b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:43f631f4-473e-5f55-8709-4181f8a6aeb7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3878886f-2f03-579e-9184-48550e0362e5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:bb1895c9-bb30-5659-bd6d-7cc2c73623eb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3da2c59c-f534-5789-8696-e634e9131963",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a86f6b58-ce43-59ac-8998-b8424fb5e61e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:34fd1757-1c64-51bf-a107-b30433516d53",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8ad95648-9049-533e-ab93-5fb3c0c2126e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6c7f2d23-c7b7-5cec-af95-ca7384ccd1ff",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d3a3afa0-02a0-5c67-86de-50e40c6dcc34",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:178e4ab3-9715-5378-a8e8-52647b312c1e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9cce991f-eb6d-503b-8f3f-79ddb0a06cd8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4a95c559-7e92-5e64-b9bd-7c874b78d34e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:096ec94f-11a8-5ed6-a9f0-67836ec3d2df",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ed8a56af-27e6-574c-a83c-d66522860cf4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:783ae273-3e27-5946-9dbb-ba9acf48df96",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:fc588519-fa66-5562-abe8-0fd8dec36e2a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a3920a0c-9344-54dc-a5b5-1ccb91090fa9",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2848768b-f79a-5e7b-b55f-dd8468f53f94",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5ef07853-cb33-5441-807b-0981bda8d015",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f6839739-12c2-562c-b3e3-2a5be863162b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c7dd68a1-6151-577f-9569-9a1755d5d1db",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:adb8a5cb-cdb5-5d66-a22b-5190ba979605",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a51a0b43-6214-5c8e-8e12-0b11c7160ba9",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:dfc8c3db-475b-58dd-a195-1218bdecaa07",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:340413df-3313-5bce-9d56-0dd20a8d3d9c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:610b502a-12a3-57e4-98b2-fb20c3032e96",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7a14a31d-7395-5349-bfdf-4e38bf135e1a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9e7f6a21-f5eb-532d-8b49-ed8f1cea086b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4879b02d-6aeb-5725-9816-5ff833f86084",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:da822a76-34f9-5237-bebe-78148a4ec30a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:62706979-95b3-56a5-97b8-caea1e2cedb5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:94bbe4b5-5a06-5874-a5a9-524673b06fca",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:38ecae33-e43b-5f74-97ff-90863157eaf8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:84f7b328-8cbc-548d-92d1-7537de439257",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4f002ce0-3e17-5e12-b007-1a78a08972ae",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3a7a403e-4abf-55f0-b96f-d25924d9de67",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0fa52716-4f94-5f0b-aaf4-0ef462a38785",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a3ac15eb-1b7d-57a9-8aed-752dfbbc9afe",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:340fb96c-a73f-5d4d-ba73-0116a79968fb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:04f89687-0f11-54fa-ac93-22fee95a9689",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b531ee99-6901-50de-9784-c54363c7b753",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c4f8dba2-06ff-5525-89b3-c83b5d774f84",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ccc44acc-9149-50fd-a094-395f0bc91507",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:716a2ae5-f93a-54fe-88f8-6e4d241889c0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0f9a1cc3-8a7a-513c-86e8-5646ae8c0ec3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5d6268a1-3748-52f1-b06c-335e1e0138c0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6bf11fc1-961d-5060-9a3d-b517abc71ce2",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8bc1c670-a27f-58c2-ace3-fb17613de832",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d99bb089-d2b5-53b9-9b06-2d55a9b1f501",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:62c3700e-75f7-54ce-8fbd-591d7dece267",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ca90650c-abe7-529f-8deb-2b1ee5a06810",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4fe0d1de-9095-51f0-b18a-8ded056edf9d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e89e34da-0dd4-58da-b190-3ed2a73472fe",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:762865e0-2ec0-5915-b60f-16d3c408a3d1",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d8d3faab-4804-594c-9922-100d326f9a74",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:bd4f711e-59d1-5ff4-aeea-c549ee185208",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c512a205-b442-5f18-aa1d-b6e1193e5e93",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cf535373-7754-5672-953c-55d196bf65f3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1cc5777b-bdc7-55f7-86d1-3a4e8009d39d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:84f05515-3a2b-52ee-b0c3-0c5eebe217bb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b8d93485-eb10-5e2f-900d-0dde4bc14624",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:35ad398b-4b8b-5041-8379-ea274e58251f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:30b02de9-4076-5a50-a9d5-e3abb48feeba",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:df35c0ac-d0d9-55c5-b38f-6f41efebe787",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:622f5021-169d-52d2-b1ae-c78fb27b0aeb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2eb843d4-339d-5db3-8e3f-ba05884bf5d4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6347f448-30a1-5181-b9f8-c4c72e8b5df4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:10705cac-d5ae-599b-9d65-3450e7d7917a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:12250dd8-bbbe-5456-aca3-5258d1ab743f",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:48de43c1-893e-5ef5-98e1-91c2c98a3d06",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a2d6b570-acf7-5c70-b088-1bc5fa2447dc",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:da6c552c-6127-5747-a723-f42f7a5ada88",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6813a3bd-87e1-5197-8881-1ec452adda22",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:09ee1efc-7f7d-5eff-9d6d-3959786015ca",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9ce98e3b-f7ed-5323-96a8-ad4e6a973818",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9d4f451f-18c1-5f76-b82c-1dd2bfc0c613",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2639c453-159f-5bf1-91b8-becfdf2c3aa0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ddbdf0ca-9810-5b9d-8e7a-684dcc6dc455",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:da02f271-9151-5b9f-8e30-8bed69c9562d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d5435be4-5480-5aea-9002-6d58fe7bf7c7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a70dd508-dafb-56ed-b491-a6aef9c5a6c6",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3579f13b-804d-5550-a79b-18621357b4e0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:12ab6b5a-3abd-5285-aa2a-62ce561b9f9c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:575bf23b-269b-56ea-b62c-6a34b5e7c65f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:191b51b1-3110-5a7b-b20f-74f43a87c91f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0ce8d3fc-c289-5e36-99f5-80c97ab856aa",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5ebfa341-9aa7-53c6-a21d-ea048d3f3f70",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c3efc781-f105-5ff6-8c47-643767d3530c",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:09ebae62-771a-5e86-949f-c8547ef651a1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1898952e-0d9e-54d2-8b22-8346424ce313",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5118f1aa-da1d-5c7b-be9d-5e969681eab4",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e2ac9ae1-18fb-5527-9976-4e16b9eec98d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d9d6e5cf-d7eb-5c4a-9037-115ba16ff822",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8bc0ec22-9bfd-5836-9895-5221a710a245",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:27591b2a-8c68-56ab-9eac-36dc863e9909",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f2fd79c3-51ef-54e5-863f-fe7747f7bb65",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b8385ee0-d1a4-58ad-a76b-2ada11057d83",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6005a942-b0c2-53a3-8d16-c160dcde7835",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:672617ea-f177-54e4-ab6b-e0d74061e6e4",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:df4909ca-70de-5fba-ba31-f6c20ab015b2",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:66555c19-6a8b-5858-8c35-4413f808f272",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0197a20f-b809-5e72-aae1-53aa6b02101b",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:eb84d5da-9c03-5a92-856a-4481394dd326",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:00793d33-ebaf-5201-b527-3f9e25720f74",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:67dace83-f387-5885-9cb1-73899ca3266f",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:48f87c68-439f-5805-a036-fb00f270d6b1",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a134d828-acca-5b92-8738-e06d102767e3",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:95317cf8-c128-5071-97fc-ee2e6d190109",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:bf19e46c-cab2-5054-ad22-330207eb5218",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f0faa3a1-44f6-5497-94b2-bc4c03dbafab",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ba9b0e7e-e084-528e-ae7e-3fbfe72a80f1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:dc451d41-fd40-566e-9d51-b35f34f612e2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:43b8f51e-a405-5605-b6bb-b27acf3e31ec",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ba1e6157-6e5f-5a5c-bcc1-5ca874e7313a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4e8ed60e-3752-540e-ba61-321d47ae0ec2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3b366968-e3bc-57f7-a58f-8ece85bd1d47",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d05ca198-0cdd-5fd6-9636-c4c229f90916",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c42007f8-b20e-55bf-9cb6-0305cfeb701d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cdd82ed1-5625-5a10-9d2f-2ea71d79be2f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:67505efb-3a21-5efd-b7e5-da0bffda296d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:10d032cd-4450-5599-8dd7-3da9240eeeda",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d12d8f1a-7304-5773-8c03-1df0faa2196a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f303b4d4-68d9-5355-b83c-6729b6fe645a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:60eaec21-3249-57a8-80ac-8883a7d1e98a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:37ef4a08-e732-5e3a-aa42-f51057fff84d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:eef62c51-290e-5b0b-b495-888adfb79496",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3e8ffaec-d527-5101-ae38-c0452e8af0a5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:92d50613-2604-5be6-b157-ca6f00081f61",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2fdf10ce-ddef-52ed-8364-576d6a45104e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:de2047be-7a46-5cee-934e-00d12e2b3d71",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:658bf971-984f-53c2-82b2-00ad735b87a1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a6e4d2b4-88d2-591e-bd90-83169b4ea784",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1bf55778-c2fd-5a63-a59b-90275f2810b3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e6bb7588-96f5-5f8f-9fc8-9d4735d0abb2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:66e78323-81b2-5617-9f73-27a660717f01",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a0ffa193-7b3e-5eb8-bbfa-dd1504eb7d13",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f1c66ce7-07f0-5e09-af54-f6892ca9219c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8854fbe0-866b-5743-b183-d5d2658b26dc",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a9e68194-c283-58e2-acab-7d5ec05905fd",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c2f79183-6a3d-5283-b75b-3d71554bce27",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ca16cfc5-080e-50ea-a84d-082403132c8e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ec00fbb1-1e44-5ed3-ae19-9205c658701e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:450f983a-702f-564d-98d1-9bfde7c3de9c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d4d4b063-7f99-53c6-9a4b-cbee5bcfeae3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2e638d11-48c7-57e0-ae86-376ce72fc5d7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4e038cd9-4248-5623-a04c-cbc6a92cd699",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:152d11fc-98ab-525d-ba4c-72ba46b6469d",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:638be8ce-c5e6-5ad1-996d-f1d625e4344f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:11c56ff9-5a3e-585e-ae23-f23a965034f1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ba947e07-d966-55a3-ba1c-d188986a1b88",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:dde47619-0d2c-5112-ac27-4d38e7f1c5b4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6c7b04d3-8230-54bf-86be-e0ca5a82492f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2988a199-d9af-52cf-9eaa-e1d343d8464e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7f5fde7a-79e2-5fb4-a7af-edcc07b1e98e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4aa6b122-7f90-5949-ad48-c76ebd36ddf7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:337e5eb8-6a5b-5b2a-8a99-9b256703971d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a24b41e8-1533-5333-b4c7-bce404995759",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8250c271-77e2-5844-989a-512465a7ce6c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:fbb58541-125d-5e23-912c-7af23cc35960",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d3383be2-7ceb-5fdd-a430-17e517e83a11",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0a7470ca-5917-57c2-8067-2ab14b63f7c4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:db29a73d-9d50-5cc7-aee4-16763036e9ea",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:af9d625a-1722-5957-959b-cb4fb797a802",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:72809695-8c07-5156-af03-c6a856fcf5e5",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:22603b00-8adc-599f-850f-df889362985a",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d592fb8e-0ac2-5d43-8200-99f11bfe6686",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:198f2ea1-ff5d-5eb6-805e-ff69f111682c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5021dacd-e405-5c74-adc3-194275a56b76",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c85a2c9d-072e-5ce3-bb40-4712c94e302d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d6a5d71b-4d80-5295-830b-470d327f5f33",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:65134db6-36d9-5b2d-8bf1-8d9aa1a31fdc",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:32e674dd-0ab5-5af8-b25c-2d1909f868d7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6630afa1-83b7-55ca-9783-10bd2feaf1fd",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:57573d8d-e83f-52a8-a58e-fc6e89017742",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:89e30d43-b681-5f19-882b-202d0f6c8d4f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ab5c835a-a727-5ff1-8c9e-6e4f35d506a5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:897229be-c072-5028-8647-80d7d0f191eb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8fa108b8-cf22-545d-b286-cb167110786a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8d6901b7-2521-59af-b203-80a6ae814efe",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:be9b0f51-3221-5357-b8e6-1c656e7672bf",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f674a15f-2df9-52e8-95b9-f233849f93f7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c249eec0-e749-528a-9b0d-7dac80bd7227",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:72f235cf-c701-5ce5-be1d-732cbe75e7aa",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8962f5dc-f93d-55fe-9575-d1e248d5ad3e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2e261a2b-46b6-5cd1-a19c-bdcfd63cc3a1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:29787c0f-2ede-505d-b7de-a148090f963d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2a3dcfd9-6de9-5f07-8871-7d8b9d9736d3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:39b1427c-3401-50a6-947f-c074693bc9e6",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:61360c15-d134-580b-9228-aa5c46c6a3c0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:85842e9c-50d5-5f9c-b74e-0e7390514dee",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:11ba8d00-b4a5-54a4-834a-f55768f84976",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0ffe761e-4e14-5e67-8653-5e1ed8782f02",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7f942a0b-bcec-5cf6-9390-22c212847118",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4e581952-faf1-5a25-b668-2b21f8ed037f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0b723d7b-6714-5be2-8021-8999d2e6488e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:61f2ca28-71a0-5d91-b841-4547e0cf04f3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3ef3054e-bdb0-5dcb-a7dd-3abe18a0f87a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c8d3f17a-4847-5fcc-9b29-d53faa656053",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:88e13d93-52dc-5f7d-b748-238a20584d74",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6b3a17bb-7ee7-52dc-a69a-2b6f17af1f79",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:aae6fc63-a92e-54d8-9bb0-7fd6e1fc3ce5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f297b623-a424-5ca8-be19-cf734e0517ce",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cbe6c835-3e24-50aa-8972-55cee809a747",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4bd28806-9fca-5550-b3c1-d47222a711c8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:93d0a951-27da-57c2-9055-12226873fcf1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:de38fa4d-308c-52b1-a6cd-d4e010da11be",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c4b36dc8-eff9-5d97-890f-4db6cc02e97f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7f50496d-2546-5f50-b3bb-68f2c5534eba",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9f7643c3-4e7c-5f02-b6c6-3e216f9698be",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b42b13ce-38d1-5bd8-b295-b8f39898c17e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cfe43c1f-b675-58c5-94a0-c13d7de22d0c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:865aa6ff-ca50-5165-bb56-68ca1c063f4c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f6b06040-a3d5-5b08-8864-7aacf06918b7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:bf217490-dfca-53e4-be28-e779403350c5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4298e82d-cdc6-545e-bef8-56c5a2f5b77d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2fef4862-53b0-556c-b2fb-1f80e5471231",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:75641e20-e77c-5605-a94c-6dad26a6664c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:189a8cf4-26b0-5673-bd2f-96d94df1be70",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:95696ce1-d391-51a8-9572-7cc1d49abd9f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:eb442d34-bcd5-55e5-b1fa-5f164c2d9f9c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:84e6eb1d-7d2a-50ac-a85f-bde05b9af25e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:de249956-a432-5011-b1bf-3fc1614a4d4f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3299cc9e-7e49-5cc8-b64f-e4cbeca38fd0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cca8f7ed-a376-584b-86c0-44cdf0ba84fc",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e63ef4bf-7a86-52b6-85a6-36fbfcba7fca",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:47cdde94-93f2-59bf-9eb1-d0b7632470ff",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:50089133-a577-5d01-8dc7-ff40287ff25b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3f3b3ad3-1569-5b06-a372-20eb0aac4bd1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5f2d77d3-0823-508c-9f45-1fb0bacdcdae",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f25e8dba-37d4-5333-ac71-38381e2a8e7c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:19f10f1a-1075-5579-b06d-7ba9a5976a76",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b77558e0-f955-548b-b723-e8780ef2f449",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:303fcc7f-adeb-5148-8b11-c704fa88d1fd",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3b2458e3-58a5-5be2-bfda-f3f97c47ca0d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:96968285-0295-5d3a-a245-080dc47d1965",
+        "reasons": [
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ef21ccbd-5253-5c1f-8965-80882258c74b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:898e97f6-f35f-5afa-be9f-c266784243af",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:46e5961f-1ac7-54e9-916f-58159ca5a1e2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:70cf0394-58d7-5d3c-836b-5e5c685ab5bc",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:45c89137-58e7-5ec0-b26b-365b3ae6fff1",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:edc055ed-3643-5951-a100-9546d107bb02",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:46dca213-a1a8-536c-ab1d-a8bb6f2a0d6f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6561f22c-534d-507a-95b1-e3f283ed5574",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ee09914e-ab94-5598-9024-f0db17ef0510",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c19639a6-9f22-5d7d-a2d3-df20e90d02a8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:864653ed-98aa-50e7-a2ac-f21954052452",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:197ab744-7e84-5896-8ba4-66ead42a0249",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8536b2c8-251f-59e4-8c0e-ce063ebb6fb7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:83a77d50-d9f0-5d58-8cff-053b05fd485d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:43900bf1-6f9f-5d9d-808b-72d82c37ff8c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:23039442-3cd4-5838-b467-56bf0c9f8fe7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:51c26a42-15e7-5c24-8dd6-3ed0d5c35da7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:32feb00a-b5dc-5077-97f6-af88a5ad3861",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:74adda20-ea47-5ced-968b-5237f6be9b68",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b553cc9b-e4c8-520c-bedd-7921128ff27b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7ccca382-b10f-5833-86ba-20987c3f4390",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:97a48e62-661f-56c0-9686-39e53cf7c592",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a81892fd-bf8d-5155-9f95-da932481b31c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:df115da7-64b9-5bf1-a8d3-55bb9e697a87",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4101e1db-16b3-5eb9-a6d0-acdfae4285c0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b1db3468-dae9-53fc-9e52-480429071e53",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f464230b-7436-5a3f-b702-5e3166d1c0eb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1c3e6823-2cc0-5863-bcb3-9d65e3f8a558",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f654f0e4-d6df-521b-a90c-9f598e1e4c7d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:40c15415-641e-598a-afca-82752b0d146f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a2352469-4c24-52a8-882b-26a32394b9b3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f7b7a13a-adf6-59dc-a857-fd4cf893dbcb",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4f05239a-3df6-59fc-ac0d-55798bb50b64",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7600e681-f98a-5920-9114-c5ab15a84b73",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:06a8bbcb-83ab-5337-931b-2fd14d36d66b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a128d500-9552-5262-b59b-1efa01922977",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:40e00269-ba16-5c8c-a681-2ddca5738f8a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:67ea980e-0bcd-55f3-b6d5-3241e7605959",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:65f15d34-78ca-5b40-ad24-1c8233df86a2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cd165541-d9ee-5bf2-bd8e-5f85fe2d6636",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1d51e783-9813-5842-8507-2f5e8e1ec2f5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2418753a-5163-5929-9740-cb8492a49bd8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:fed4a649-00c3-5bf0-a3f0-fb58f74af8ab",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d9fcbea9-f02a-570e-8dec-6dc2206819ec",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4fb2eaf7-4118-5347-a1fc-bb4b28670292",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f4b4c75a-4f4e-5e6d-9bee-373748130392",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2273d679-f365-5043-a1f7-8a5c752b45b8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e5b6da3e-5ed0-5300-a73a-4b1696635eb7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f075c81b-383d-5892-a892-32f6b78b9f73",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d2b366d6-f646-5337-9c95-e7dd2c4be496",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f0d96367-f1b7-57de-b6a3-4e64659623a4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:34635ebe-186f-59c8-9e97-86c4b67ba3d7",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d96ab9f9-30e1-5289-a0d5-2cb253044753",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:18cb89d1-7f18-596e-b2aa-80a88af4ff29",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a4e24b85-d9c6-5ec8-9c8f-c17cc1a3bfb0",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a2adb33d-5488-57d4-ba9e-b1bfd7bf8ec2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:32383bf7-8c4d-5a97-af53-52ca575cc7ef",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:31a31002-0dad-5bb0-81ca-9cc19d87ed38",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a39fd5e0-ac7c-5e1a-8083-cd69b94ba025",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5bbab7ad-3de3-5ee0-b0cc-c2039efa816b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:dd8c2b77-7f04-50e9-b8db-9ee3bfcb1542",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:92ae13e5-6473-5e48-b9b2-babab5600f66",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e5c40db0-7d11-5cf5-a488-d901259824fe",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ee0f423f-0d88-51a9-a945-5e22129d527f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:59e03683-5f08-5879-aa38-d9164533623c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0c336772-b1db-50d5-b4c4-7c0b11c72d14",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0d6d6bc1-621e-5262-a0d4-a8e4764b8cd3",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c11e538e-5dc7-58a3-ba3f-3733c877254f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:894ec8d1-cf1b-57bb-8e8e-46508867660e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2f55279a-a566-5074-b8b8-404feb76b7d2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9d38bf15-b849-57fc-8e98-80f08431dacd",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8d492fcb-dbca-5b0b-86cb-9b461c554cd4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cb290afa-656b-5692-968c-55c9c750a440",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:88826b5b-cae3-5bc8-9516-3e02fe6ff451",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f6a5a930-75b9-57d9-ab0d-bf58428502cf",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c17195eb-9bb0-5081-8483-ccbc1a847212",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:917eeb58-56c9-5be2-9980-829606dcf00d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e0f4e7e3-e87c-5cc4-baf0-fb73b6a39690",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:71fe9c33-10c6-5eb8-878c-3f6eb0d297c8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:39368461-a453-5aa7-a7ca-2d08ba297076",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:869e78f7-d82c-5c76-9a7d-8466347df6d9",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1b09a1c0-dd3d-56ca-9a68-9e4532a0d9e6",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:740878a7-5067-50e4-834a-65235be56990",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ab970363-9e37-5581-8c61-32fc9f7511bf",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6ff53047-9db5-5e0f-96c1-63574aa92687",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:57dca630-f063-5f61-8eef-5959697aba09",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:1077ccfd-89a2-59b9-8424-459105dbba13",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5507f7fc-b602-5684-984c-d465cec8993d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:52b108be-53d6-52e3-b0e3-27b7f85b5c8c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9ce06e96-9100-5993-b279-25a5d68a3bb8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:20da81e6-d18a-5a43-885c-c03622d14965",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9e5bd84e-734b-5aad-8444-36669fc09fc2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:bd53afab-c17b-5467-a21a-256a6d0d82f9",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:cd03dbc3-afc8-5d13-8c19-3d20c3f0c38e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4728086a-4fa2-556f-a450-050f5e590da5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e96b07e5-116e-5d26-b471-5780c684cbe6",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:42b8c42a-071b-501d-9405-82d61ed5d96f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2322ec19-e0d0-5e0e-b3b9-70eb92116a7c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b131b277-b878-5569-89ec-bd4e7e824029",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:26914456-c170-5be4-bcb9-39dff65bafaf",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d77e0a7b-6166-5ba0-8f4a-9d24c2d5bcec",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:2f755000-d544-50bf-88d4-024e5be9c996",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:83f48691-bc01-5f73-98a3-7a6fab79634a",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d1ecae26-588f-54da-afee-13a9ccaa16a8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f8047d90-1a70-5bb0-b6df-53f0818c3a47",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:322f8c90-ed10-56d4-b6fe-d249d49ead00",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ca72a599-dd4f-5422-af80-06d97b9390a5",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5bf9c017-2007-5065-9f3b-e8fc248439d4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:5b4e0f3f-0845-57eb-8976-fc10575e4732",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:9d4cee58-a315-50e5-b2da-6d8711465566",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:d7116d23-14c2-5562-b0d8-e429aa66165b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b88fc348-397a-53f3-94cb-6a2ad536adf2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:55296683-6404-5e7a-96b4-145665b70162",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:c0474342-8a30-5c3b-8485-5544e5607129",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3d1b7cec-c918-5998-b3cc-facbd3a98703",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:70314541-24f6-5c29-a651-f68357ecf538",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:01d4215f-d291-5e10-828b-4beb08b2ac63",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:aa902e89-e3a0-52b0-bb48-147b5b728b7b",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:7410445a-2c61-5da8-9964-026b931f6cc4",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4939e3ad-7452-5c76-921d-c1c72cfb5606",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:4f86d2ba-8274-5823-a412-4ec17edd0148",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e03d3a37-6d05-5fa5-9dc1-4a3900751edf",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:678d10f4-d4c5-514b-9275-ec93f3441dea",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:a90ad929-f301-54a9-a9ec-2e6c722c3343",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:476b8b26-d099-5981-b508-2c8944299c6f",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:f47b1927-a7fd-54e8-8cd3-eff47d02ba7d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ca1681a7-97ca-5053-8185-8d9f07a409da",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:736e1f42-77b3-5588-81e0-6a8dfba85355",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:31f7da1d-12d2-5f25-aad5-967c814e1c7d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:0c89003f-f246-5c35-84c2-79fecf1ddf4e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:410acd34-4519-5df0-8ddc-d167965df5e8",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:90a0e913-2ea0-5e8c-a1bc-76ad169f4c2d",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:e2c0feda-6b1f-50b2-b2d9-c3d00e64f678",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:3784107e-201f-567d-a7a7-88b8920ee624",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:6870c403-024c-5c5c-9607-ceb06318b06c",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:b0b7870c-1456-5f51-8cee-1541713ab4dd",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:ef070cdc-17fc-5a6b-b0dd-5a6a5c573505",
+        "reasons": [
+          "Stated experience below listed minimum",
+          "Stated English below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:8f529d6d-e40e-5631-9e06-180e2d2f0bb2",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      },
+      {
+        "job_id": "djinni:82f60f32-2975-514c-b9f4-aac7380dd44e",
+        "reasons": [
+          "Stated experience below listed minimum"
+        ]
+      }
+    ],
+    "weights": {
+      "lexical": 0.65,
+      "mentioned_skill_coverage": 0.35
+    }
+  },
+  "results": [
+    {
+      "job": {
+        "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+        "title": "Dashboard Engineer в продуктову компанію",
+        "company": "ITExpert",
+        "description": "✧ У липні 2021 року компанія залучила 3 мільйони доларів протягом 1 раунду. ✧ Віце-президент відділу розробки раніше працював у Facebook та Google. ✧ Підрозділ Quantitative strategies займається розробкою інструментів для використання їх трейдерами всередині компанії. ✧ Наразі будують дашборди для операційної діяльності з використанням Dash. ✧ Потрібний досвід з Python, досвід візуалізації даних, розмовна англійська. Буде плюсом досвід із Dash.",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2022-03-01T00:00:00+02:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Engineer",
+        "skills": [
+          "python"
+        ],
+        "min_years": 2.0,
+        "english": "B1",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.45691525868574595,
+      "lexical_score": 0.16448501336268612,
+      "matched_skills": [
+        "python"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb",
+        "title": "Data analyst",
+        "company": "WhiteBIT",
+        "description": "WhiteBIT працює в блокчейн-сфері, наш продукт — це біржа для торгівлі криптою. Ми тим часом активно розвиваємося та шукаємо Data analyst! Ми очікуємо, що наш кандидат буде мати: *Навички роботи з базами даних; *Навички роботи з Google Analytics; *Вміння опрацювати аналітику під запити бізнесу; *Досвід роботи з Adjust буде плюсом; *Досвід передачі конверсій в рекламні кабінети. Також буде плюсом : *Вища освіта у сфері маркетингу, управління або економіки; *Досвід роботи в IT. Основними завданнями кандидата будуть: *Робота з базами даних компаній; *Обробка і зв'язок даних з БД і систем аналітики; *Налаштування цілей на сайті і в додатках; *Налаштування зв'язку Google Analytics + CRM + apps; *Налаштування user id в Google Analytics 4 і firebase; *Ведення внутрішньої звітності щоденної / щотижневої / щомісячної; *Прорахунок LTV користувача і аналіз проходження користувачем маркетингової воронки; *Оформлення висновків звітів в Google Data Studio і Power BI (або аналоги); Ми зі свого боку пропонуємо цікаві завдання з великим обсягом професійних викликів, професійним розвитком та підтримкою ментора. Ми завжди «за» розвиток та навчання, тому компанія оплачує курси, тренінги та конференції. Говорячи про соціальну частину роботи, першочергово варто сказати, що працюємо з 10:00 до 18:00 по буднях, у сучасному і зручному офісі біля ст. м. Ботанічний Сад. Наша СRYPTOdream-team чекає саме на ТЕБЕ!",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2022-04-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Analyst",
+        "skills": [
+          "power bi"
+        ],
+        "min_years": 1.0,
+        "english": "B1",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.42760756631111085,
+      "lexical_score": 0.11939625586324748,
+      "matched_skills": [
+        "power bi"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "power bi",
+          "cv_quote": "Power BI",
+          "job_quote": "Power BI"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:75e08654-1735-5926-912b-97dc3bb33115",
+        "title": "Data Analyst",
+        "company": "Mobilife+",
+        "description": "Вимоги: - від 1 року роботи на аналогічні посаді; - досвід роботи з SQL, R/Python, PowerBI, Data Warehouse, Microsoft Excel; - рівень володіння англійською мовою: intermediate і вище (спілкування, переписка); - бути ФОП; - можливість повноцінно працювати віддалено. Обов'язки: - здійснювати аналіз отриманої інормації; - приймати рішення спільно з РМ та TL, щодо покращення продукту. Проект: вже у реалізації та постійно удосконалюється. Націлений на європейський ринок. Є довгостроковим. Компанія пропонує: - контракт; - 24 дні оплачуваної відпустки; - стабільний колектив; - графік роботи з 9 по 18.",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2020-04-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Other",
+        "skills": [
+          "excel",
+          "power bi",
+          "python",
+          "sql"
+        ],
+        "min_years": 1.0,
+        "english": "B2",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.42747496170104216,
+      "lexical_score": 0.1191922487708341,
+      "matched_skills": [
+        "excel",
+        "power bi",
+        "python",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "excel",
+          "cv_quote": "Excel",
+          "job_quote": "Excel"
+        },
+        {
+          "skill": "power bi",
+          "cv_quote": "Power BI",
+          "job_quote": "PowerBI"
+        },
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:c38bf1cf-ebaf-5a78-90f3-88ffb90e7cf7",
+        "title": "Data analyst",
+        "company": "Национальная служба здоровья Украины",
+        "description": "Data analyst Необхідні навички — Аналітичне мислення — Вища технічна освіта (математика/фізика/статистика/ІТ) — Базове знання статистики — Знання SQL (PostgreSQL), написання запитів, агрегації, віконні функції, оптимізація запитів. — Знання Python (pandas, openpyxl) (знання R або інших мов програмування буде перевагою) — Power Bi, Excel (DAX, PQ) (досвід роботи з іншими BI буде перевагою) — Досвід роботи з великими даними буде перевагою Обов’язки — написання ad-hoc SQL запитів до баз даних; — аналіз медичних та статистичних даних в ЕСОЗ; — створення аналітичних звітів та дашбордів; — підтримка та вдосконалення існуючих звітів та дашбордів; — аналіз звітів надавачів медичних послуг; — аналіз виконання умов договорів надавачами медичних послуг; — розробка методології та алгоритмів автоматичного моніторингу; — створення та розрахунок системи показників; — пошук аномалій, випадків недоброчесної поведінки надавачів медичних послуг. Наші переваги — Офіційне працевлаштування; — Зручний графік роботи: Офіс / Віддалено; — 30 календарних днів відпустки; — Можливість професійного та кар’єрного росту; — Дружній колектив; Про проект Національна служба здоров’я України (НСЗУ) — центральний орган виконавчої влади, який трансформує систему охорони здоров’я, фінансуючи медичне обслуговування українців через контракти з більш ніж 4 000 закладів охорони здоров’я та аптечних закладів на території всієї України. Головний рушій медичної реформи протягом останніх 3 років, який об’єднав навколо себе команду молодих та проактивних українців, для яких професійність та робота на результат є недоторканою допомогою. Для нас головний критерій кандидата - зацікавленість і бажання зростати. Якщо проявляєте ініціативність і швидко навчаєтесь новому, то перспективи зростання зявлятимуться вже з перших місяців! Якщо хочете долучитися до команди, яка впроваджує найскладнішу системну реформу в Україні, здобути новий професійний досвід і стати експертом з аналізу неймовірних обсягів медичних даних (наразі близько 50 млн записів щомісячно), ми чекаємо на ВАС!",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2021-09-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Science",
+        "skills": [
+          "excel",
+          "pandas",
+          "postgresql",
+          "power bi",
+          "python",
+          "sql"
+        ],
+        "min_years": 0.0,
+        "english": null,
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.4266748616302897,
+      "lexical_score": 0.11796132558506112,
+      "matched_skills": [
+        "excel",
+        "pandas",
+        "postgresql",
+        "power bi",
+        "python",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown",
+        "Job English minimum unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "excel",
+          "cv_quote": "Excel",
+          "job_quote": "Excel"
+        },
+        {
+          "skill": "pandas",
+          "cv_quote": "Pandas",
+          "job_quote": "pandas"
+        },
+        {
+          "skill": "postgresql",
+          "cv_quote": "PostgreSQL",
+          "job_quote": "PostgreSQL"
+        },
+        {
+          "skill": "power bi",
+          "cv_quote": "Power BI",
+          "job_quote": "Power Bi"
+        },
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:decb9491-8cda-5194-a327-5689c5c5c378",
+        "title": "Data analyst",
+        "company": "MHP SE",
+        "description": "**Основні обов'язки:** Робота з бізнес-аналізу (збір вимог, переговори із бізнес замовниками) Робота над візуалізацією даних, управління якістю даних, вирішення складних задач на PowerBI Аналітика розробки дашбордів, аналітичних звітів, моделей та вітрин даних **Вимоги до кандидата:** Досвід визначення та моделювання метрик, вимірів Вміння будувати, трансформувати та оптимізувати моделі даних Досвід роботи як бізнес-аналітик (збір вимог, переговори із бізнес замовниками та ін.) Навички аналізу та візуалізації даних Досвід розробки інструментів Power BI, PowerBI, MS SQL, T-SQL, DAX, PowerQuery Англійська на рівні не нижче Intermediate",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2021-04-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Science",
+        "skills": [
+          "power bi",
+          "sql"
+        ],
+        "min_years": 2.0,
+        "english": "B1",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.4253780520640067,
+      "lexical_score": 0.11596623394462571,
+      "matched_skills": [
+        "power bi",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "power bi",
+          "cv_quote": "Power BI",
+          "job_quote": "Power BI"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6",
+        "title": "Data Analyst",
+        "company": "Contentmaniya",
+        "description": "Вітаю! В IT компанію (сфера реклама і маркетинг) потрібен досвідчений Data analyst якій зможе в Power BI або Google Data Studio вивести дані з кастомного API за потрібними розрізами **Обов'язки:** *Вибір та використання API для отримання необхідної статистики. *Обробка, очищення та попередня обробка даних. *Розробка та оптимізація системи для збору даних за допомогою API. *Створення та підтримка інструментів звітності та дашбордів в Power BI або Google Data Studio. *Аналіз та інтерпретація результатів за допомогою статистичних методів та інструментів. *Візуалізація даних та створення звітів. *Розробка та реалізація стратегій управління даними. *Співпраця з командою для розуміння потреб бізнесу та надання відповідних рішень. **Вимоги:** *Досвід роботи в сфері аналізу даних або в подібних областях. *Навички роботи з API для витягування даних. *Володіння однією або декількома мовами програмування (Python, R, SQL та ін.). *Продвинуті навички роботи з Power BI або Google Data Studio. *Здатність ефективно візуалізувати дані та створювати звіти. *Знання статистичних методів та інструментів. *Навички роботи з великими обсягами даних. *Високий рівень організованості, уваги до деталей та здатність балансувати між кількома задачами. **Умови роботи:** *Фріланс/пошутчна/проектна работа *Конкурентоспроможна зарплата. Будь ласка, присилайте ваші резюме, бажано з логіном в тг для зв’язку, та будемо раді поспілкуватись!",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2023-07-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Engineer",
+        "skills": [
+          "power bi",
+          "python",
+          "sql"
+        ],
+        "min_years": 2.0,
+        "english": "A2",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.42062655639219604,
+      "lexical_score": 0.10865624060337851,
+      "matched_skills": [
+        "power bi",
+        "python",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "power bi",
+          "cv_quote": "Power BI",
+          "job_quote": "Power BI"
+        },
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:cdb8424e-c04f-567c-b7c3-9e89c8ec96f0",
+        "title": "Data analyst",
+        "company": "Proxima Research International",
+        "description": "Шукаємо кандидата, який працював з великим обсягом даних, знає формульну функціональну мову запитів DAX або Power BI ***Обов’язки:*** Під'єднання нових джерел інформації (пошук варіантів /перемовини з постачальниками/аналіз вхідних масивів на коректність/контроль приходу данних) Випуск аналітичного продукту Аналіз результатів розрахунку/перевірка на корректність/розробка звітності по перевірці якості Покращення математичних моделей, на яких рахуеться аналітичний продукт Pабезпечення взаємодії з іншими проектами Кастомні доробки на вимогу клієнтів ***Вимоги:*** QlikView або схожі BI-платформи (Power BI) DAX, SQL, Ecxel, Python ***Від нас:*** Офіційне оформлення: 24 календарні відпустки; Можливість кар'єрного зростання; Цікавий продукт на фарм.ринку, який не дасть тобі нудьгувати;",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2022-10-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Analyst",
+        "skills": [
+          "power bi",
+          "python",
+          "sql"
+        ],
+        "min_years": 2.0,
+        "english": null,
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.4182691450187622,
+      "lexical_score": 0.10502945387501884,
+      "matched_skills": [
+        "power bi",
+        "python",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown",
+        "Job English minimum unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "power bi",
+          "cv_quote": "Power BI",
+          "job_quote": "Power BI"
+        },
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:4a24c113-b008-5d09-a0b2-957d24290c84",
+        "title": "Data Analyst",
+        "company": "ITRDev",
+        "description": "**ITRDev **- українська IT-компанія, яка займається розробкою проєктів спортивної тематики. Наші проєкти допомагають спортсменам брати учать у національних змаганнях США, знімати відео ігор, а також допомагають абітурієнтам-спортсменам вступити до престижного ВУЗу. Ми шукаємо відповідального спеціаліста з обробки даних на посаду Data Analyst, який буде аналізувати дані та вдосконалювати процеси їх обробки з метою покращення ключових показників роботи проєктів над якими ми працюємо. **Навички, які для нас важливі:** - Вміння виявляти і деталізувати бізнес потреби проєкта (клієнта, користувачів, тощо); - Вміння працювати в команді і враховувати інтереси різних сторін; - Вміння чітко, зрозуміло і лаконічно висловлювати свою думку і зроблені висновки; - Здатність аналізувати дані та робити важливі висновки; - Досвід побудови звітів на основі аналізу даних; - Досвід роботи з даними в різних форматах (конвертація, поєднання, виправлення помилок); - Досвід написання SQL запитів середньої складності; - Досвід розробки дашбордів з важливими метриками; - Досвід налаштування Google Analytics та аналіз отриманих даних; - Англійська не нижче Upper Intermediate (письмова та розмовна). **Буде плюсом:** - Досвід роботи з будь-якою системою BI; - Високий рівень володіння Excel (формули, макроси, плагіни, підключення до різних джерел даних, PowerQuery); - Створення інтеграцій і підключення до різних джерел даних; - Використання DevOps та інших інструментів мониторингу; - Використання різних інструментів автоматизації (обробки даних, бізнес-процесів). **Що ти будеш робити:** - Збір необхідних даних із різних джерел, конвертація в потрібні формати для подальшої роботи з ними; - Аналіз даних з різних джерел, SQL-запити, та інше; - Виявлення трендів, залежностей та інших важливих висновків; - Розробка рекомендацій на основі аналізу даних; - Виявлення проблем обробки даних і впровадження покращень в цих процесах; - Налаштування Google Analytics та аналіз отриманих даних для покращення показників; - Виконання Ad-hoc запитів для отримання потрібної інформації; - Виконання інших завдань, пов'язаних з обробкою та аналізом даних.",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2023-07-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Analyst",
+        "skills": [
+          "excel",
+          "sql"
+        ],
+        "min_years": 2.0,
+        "english": "B2",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.4176060327009189,
+      "lexical_score": 0.10400928107833675,
+      "matched_skills": [
+        "excel",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "excel",
+          "cv_quote": "Excel",
+          "job_quote": "Excel"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:59139aac-faec-5a1c-99b7-0586101a54d9",
+        "title": "Data Analyst",
+        "company": "Frontrunners",
+        "description": "Ми команда досвідчених професіоналів, яка працює з більш ніж 70 видавництвами зі всього світу. Зараз ми шукаємо талановитого Data Analyst в нашу команду. Вимоги: - 2+ роки досвіду - Впевнений рівень володіння SQL - Досвід з Python (вітається, але не обов'язково) - English - Intermediate Завдання: - використання спеціальних інструментів для отримання необхідних даних - відповіді на запити, пов'язані з даними, та відстеження цих запитів - аналіз даних - виявлення тенденцій ринку - налаштування процесів та систем для підвищення ефективності роботи з даними - пошук нових способів використання даних - створення звітів та діаграм - подання інформації, отриманої з даних, клієнтам та менеджерам Ми пропонуємо: - 24 дня відпустки - Ремоут - Можливість навчатись та покращувати свої знання - Робота з командою професіоналів",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2022-07-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Data Analyst",
+        "skills": [
+          "python",
+          "sql"
+        ],
+        "min_years": 2.0,
+        "english": "B1",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.4143994077966886,
+      "lexical_score": 0.09907601199490555,
+      "matched_skills": [
+        "python",
+        "sql"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        },
+        {
+          "skill": "sql",
+          "cv_quote": "SQL",
+          "job_quote": "SQL"
+        }
+      ]
+    },
+    {
+      "job": {
+        "id": "djinni:dc45822b-999b-546f-8160-b6b260cda533",
+        "title": "Middle/Senior Python developer в команду Джина",
+        "company": "Djinni.co",
+        "description": "Шукаємо досвідченого розробника, хто зможе суттєво посилити команду і кому цікава наша місія. Перелік задач дуже широкий – від \"переписати заплутаний код оплат\" до \"оновити Intercom API\" та \"розібратися чому зависає RQ та пофіксити\". Вимоги: Писати якісний код швидко. %) Ще важливо: Продуктове мислення, ownership. Бажано мати досвід \"занурення\" в складну кодову базу та вміння швидко в ній розібратися. Досвід роботи в стартапі та/або маленькою командою буде плюсом. Стек: Python3/Django3, PostgreSQL, Bootstrap/Jjinja на фронтенді. Команда: Два бекенда, фронтенд, дизайнер, аналітик, ПМ **Місія Джина:** Створити найбільший в Європі сайт для пошуку роботи в ІТ й заробити хулліард грошей на відбудову України. Мета на 2022 – зібрати 100 млн грн на ЗСУ разом з ДОУ. Джин це маленька команда, яка робить багато. Умови: Фултайм, ремоут. Конкурентна зп з привʼязкою до курсу НБУ. Ноутбук на М1. Unlimited vacation & sick days. Донати на ЗСУ. Країна проживання значення не має, важливіша таймзона (+/- 2 години з Києвом). Спілкування в команді переважно українською. Розкажіть, будь ласка, у відгуку трошки про себе та як ваш досвід буде релевантний для Джина.",
+        "source": "Djinni historical sample (2020-2023)",
+        "published": "2022-10-01T00:00:00+03:00",
+        "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+        "historical": true,
+        "url": null,
+        "category": "Python",
+        "skills": [
+          "postgresql",
+          "python"
+        ],
+        "min_years": 2.0,
+        "english": "B1",
+        "remote": null,
+        "city": null,
+        "ukraine": null
+      },
+      "score": 0.40272118409744323,
+      "lexical_score": 0.08110951399606654,
+      "matched_skills": [
+        "postgresql",
+        "python"
+      ],
+      "unmentioned_skills": [],
+      "unknowns": [
+        "Ukraine eligibility unknown"
+      ],
+      "evidence": [
+        {
+          "skill": "postgresql",
+          "cv_quote": "PostgreSQL",
+          "job_quote": "PostgreSQL"
+        },
+        {
+          "skill": "python",
+          "cv_quote": "Python",
+          "job_quote": "Python"
+        }
+      ]
+    }
+  ]
+}

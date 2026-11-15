@@ -1,0 +1,13 @@
+{
+  "revision": "starter-v3",
+  "jobs_sha256": "2eecaa03b92ab2814b0dca1ee107b6f87efd34f70f8e19d1e64a8b1397d84f45",
+  "jobs": 1000,
+  "sampled_rows": 1000,
+  "dropped_duplicates_or_invalid": 0,
+  "dou_snapshot_items": 50,
+  "serialization": "UTF-8 bytes, LF, JSON indent=2",
+  "source": "https://huggingface.co/datasets/lang-uk/recruitment-dataset-job-descriptions-ukrainian",
+  "license": "MIT per dataset card",
+  "historical_period": "2020-2023",
+  "sampling": "ten 100-row pages at fixed offsets, including Data/AI title ranges; not a random representative sample"
+}

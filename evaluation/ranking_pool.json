@@ -1,0 +1,181 @@
+{
+  "revision": "v1-frozen-before-metric-run",
+  "label_provenance": "AI-authored provisional judgments from public descriptions, not independent human review or hiring outcomes.",
+  "human_reviewed": false,
+  "grade_definition": {
+    "0": "different work",
+    "1": "adjacent/weak",
+    "2": "relevant with material gaps",
+    "3": "strong task alignment"
+  },
+  "binary_relevant_min_grade": 2,
+  "jobs": [
+    {
+      "id": "djinni:58f9f361-c448-5142-867c-7934483d6fb1",
+      "title": "Data Analist (Blockchain)",
+      "description_sha256": "076b35bbcd4c79f6d41361143ba18dbcb6bc25d4b7ae04abcc69cb1671dbf9ea",
+      "rationale": "Blockchain/AML-specific analysis; generic analyst only adjacent."
+    },
+    {
+      "id": "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977",
+      "title": "Data analyst",
+      "description_sha256": "405add704bd59a6177b745e103e768f62745101f7639b9b25dfe7cef32564e44",
+      "rationale": "Supply-chain SQL/Python analysis and dashboards; ETL and ML are secondary."
+    },
+    {
+      "id": "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb",
+      "title": "Data analyst",
+      "description_sha256": "57166cf46093e8f4588e6b686af67d7aa210f6544ca390c7455f15808b334718",
+      "rationale": "Marketing analytics and reporting; requires additional domain tools."
+    },
+    {
+      "id": "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc",
+      "title": "Data analyst",
+      "description_sha256": "38d7ba7fa18452dcf1cf3d4e10b96c587940ce42f8be23a79b4f4fedd15d1061",
+      "rationale": "Product metrics, experiments and BigQuery reporting."
+    },
+    {
+      "id": "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3",
+      "title": "Dashboard Engineer в продуктову компанію",
+      "description_sha256": "777ee21c3de72bc9f5f7e192b514de0f07f335bd896db1ffc39ba299aee52f2e",
+      "rationale": "Python dashboards, not primarily platform engineering or ML."
+    },
+    {
+      "id": "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6",
+      "title": "Data Analyst",
+      "description_sha256": "fefc5f3a2bac3ed87a6db2a8904dafc0ebb47fbd995720c7cd8ec8a5c3f7a0d1",
+      "rationale": "API collection/cleaning plus BI dashboards; analytics dominates."
+    },
+    {
+      "id": "djinni:3e8ffaec-d527-5101-ae38-c0452e8af0a5",
+      "title": "Data Solution Architect",
+      "description_sha256": "abfaaa26a673aeffe66a2556a72f336394a79dca15b977ee573d56fbd327705c",
+      "rationale": "Data-platform architecture and ML architecture; seniority and architecture need review."
+    },
+    {
+      "id": "djinni:92d50613-2604-5be6-b157-ca6f00081f61",
+      "title": "Data Tech Lead for a big banking project",
+      "description_sha256": "5304d070a8b297c3726d7d2bc83d19321b3f71bb3c3c276390ee3e6a3ecb95a6",
+      "rationale": "Streaming/bank data platform with Python AWS Kafka and team leadership."
+    },
+    {
+      "id": "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda",
+      "title": "Data інженер/Data developer (Hadoop/Cloudera, Spark, Scala)",
+      "description_sha256": "b4ba3b41ad2395ee41a97ba026bb47717779680a1141e21afd4613cc1821eb07",
+      "rationale": "Explicit Hadoop/Spark data-platform development; not predictive-model work."
+    },
+    {
+      "id": "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49",
+      "title": "Deep Learning Engineer",
+      "description_sha256": "cb75b526a4b343723686ec4124253b0e638f8924f178d02bebbfaa6c8427193b",
+      "rationale": "Explicit computer-vision model training and production deployment."
+    },
+    {
+      "id": "djinni:66fdd0e4-5d94-50bb-92a5-d915a7b21d3b",
+      "title": "Cпеціаліст з автоматизаціі бізнес-процесів (тількі в офіс)",
+      "description_sha256": "d1ac47ddd7d06d139c867cff5a57dce0de87cb3b24ea8afe4de6ee0a465a74ad",
+      "rationale": "Business workflow automation, not the requested Data/ML work."
+    },
+    {
+      "id": "djinni:339128eb-2340-5608-87b8-ef48171ce8ea",
+      "title": "DevOPS/ Python Developer",
+      "description_sha256": "08c20b558b284e0a17d51ddb0baa6a3b011d337a53632c93bdcdfc43eaa0d538",
+      "rationale": "Python network test/CI automation, adjacent infrastructure only."
+    },
+    {
+      "id": "djinni:afb8db2e-e507-5beb-ac1b-a2b1424f40eb",
+      "title": "1C Developer",
+      "description_sha256": "72bcb1b7f024d33254d90535a8a3584f14e598e97cd20296e19ece9e34e868b2",
+      "rationale": "1C accounting-configuration development."
+    },
+    {
+      "id": "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513",
+      "title": "BSS configuration & support engineer",
+      "description_sha256": "4ca2f71d099de892763af3683fe27c16e63abf9efd2d0c380474e696b7be302d",
+      "rationale": "BSS configuration/support; overlapping tools do not establish role fit."
+    },
+    {
+      "id": "djinni:a86f6b58-ce43-59ac-8998-b8424fb5e61e",
+      "title": "Android Dev в компанію, яка займається розробкою дронів",
+      "description_sha256": "cdff783cc889ae98a4d27174ef2ca24e04ecac29d031401d3a89d7cb3dbcc68f",
+      "rationale": "Android/Qt client development, different work."
+    },
+    {
+      "id": "djinni:e6fb6d13-3c9c-58ae-9578-9d4613ae3492",
+      "title": "2D animator",
+      "description_sha256": "6e7a70036736d5f796b86e08d6c546198bf68eb9e8184d8cf899bbbe07e95448",
+      "rationale": "2D animation and visual production, different work."
+    }
+  ],
+  "queries": [
+    {
+      "id": "analytics",
+      "role": "Data Analytics",
+      "cv": "Data analyst: SQL Python Excel Power BI Tableau BigQuery Pandas. I analyze product metrics, experiments and dashboards. 5 years of experience. English C1.",
+      "grades": {
+        "djinni:58f9f361-c448-5142-867c-7934483d6fb1": 1,
+        "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977": 3,
+        "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb": 2,
+        "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc": 3,
+        "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3": 2,
+        "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6": 3,
+        "djinni:3e8ffaec-d527-5101-ae38-c0452e8af0a5": 0,
+        "djinni:92d50613-2604-5be6-b157-ca6f00081f61": 0,
+        "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda": 0,
+        "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49": 0,
+        "djinni:66fdd0e4-5d94-50bb-92a5-d915a7b21d3b": 0,
+        "djinni:339128eb-2340-5608-87b8-ef48171ce8ea": 0,
+        "djinni:afb8db2e-e507-5beb-ac1b-a2b1424f40eb": 0,
+        "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513": 0,
+        "djinni:a86f6b58-ce43-59ac-8998-b8424fb5e61e": 0,
+        "djinni:e6fb6d13-3c9c-58ae-9578-9d4613ae3492": 0
+      }
+    },
+    {
+      "id": "engineering",
+      "role": "Data Engineering",
+      "cv": "Data engineer: Python SQL AWS Airflow Kafka Spark Hadoop Docker Kubernetes. I build streaming data pipelines and data warehouses and lead a technical team. 5 years of experience. English C1.",
+      "grades": {
+        "djinni:58f9f361-c448-5142-867c-7934483d6fb1": 0,
+        "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977": 1,
+        "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb": 0,
+        "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc": 1,
+        "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3": 1,
+        "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6": 2,
+        "djinni:3e8ffaec-d527-5101-ae38-c0452e8af0a5": 2,
+        "djinni:92d50613-2604-5be6-b157-ca6f00081f61": 3,
+        "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda": 3,
+        "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49": 0,
+        "djinni:66fdd0e4-5d94-50bb-92a5-d915a7b21d3b": 0,
+        "djinni:339128eb-2340-5608-87b8-ef48171ce8ea": 1,
+        "djinni:afb8db2e-e507-5beb-ac1b-a2b1424f40eb": 0,
+        "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513": 0,
+        "djinni:a86f6b58-ce43-59ac-8998-b8424fb5e61e": 0,
+        "djinni:e6fb6d13-3c9c-58ae-9578-9d4613ae3492": 0
+      }
+    },
+    {
+      "id": "ml",
+      "role": "AI/ML Engineer",
+      "cv": "Machine learning engineer: Python PyTorch TensorFlow scikit-learn NumPy Pandas Docker AWS GCP. I train computer vision models and deploy inference services. 5 years of experience. English C1.",
+      "grades": {
+        "djinni:58f9f361-c448-5142-867c-7934483d6fb1": 0,
+        "djinni:9e6f0f66-828e-5067-92e4-b4ea388e8977": 1,
+        "djinni:0ab94db6-59e8-52d2-ae50-f3c3d8e82beb": 0,
+        "djinni:851d99c0-2f28-5149-8942-85f8de3ddbfc": 0,
+        "djinni:0b2d1881-6a11-57f1-a94c-af5ad14fbdb3": 0,
+        "djinni:ad00d38c-2f0f-5c6a-837b-8f13a2f89fd6": 0,
+        "djinni:3e8ffaec-d527-5101-ae38-c0452e8af0a5": 1,
+        "djinni:92d50613-2604-5be6-b157-ca6f00081f61": 1,
+        "djinni:d5b856fc-c42f-5f9c-88c4-2788c6d46fda": 1,
+        "djinni:a55dedcd-5de5-5767-8a74-2be506e72d49": 3,
+        "djinni:66fdd0e4-5d94-50bb-92a5-d915a7b21d3b": 0,
+        "djinni:339128eb-2340-5608-87b8-ef48171ce8ea": 0,
+        "djinni:afb8db2e-e507-5beb-ac1b-a2b1424f40eb": 0,
+        "djinni:ad77fefe-634e-591c-b92c-7c32ec71c513": 0,
+        "djinni:a86f6b58-ce43-59ac-8998-b8424fb5e61e": 0,
+        "djinni:e6fb6d13-3c9c-58ae-9578-9d4613ae3492": 0
+      }
+    }
+  ]
+}

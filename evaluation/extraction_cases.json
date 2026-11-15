@@ -1,0 +1,18 @@
+{
+  "provenance": "AI-authored synthetic component references, created after inspecting public jobs; not real CVs or independent human labels.",
+  "revision": "v1-frozen-before-metric-run",
+  "cases": [
+    {"id":"dev-basic","split":"development","text":"Data analyst. Python, SQL and Power BI. 2 years of experience. English B2.","skills":["python","sql","power bi"],"years":2,"english":"B2"},
+    {"id":"dev-alias","split":"development","text":"Data engineer using PySpark, postgres and k8s. English C1. 5 years of experience.","skills":["spark","postgresql","kubernetes"],"years":5,"english":"C1"},
+    {"id":"dev-boundary","split":"development","text":"Frontend engineer using JavaScript and React.js. GitHub profile available.","skills":["javascript","react"],"years":null,"english":null},
+    {"id":"dev-unknown","split":"development","text":"Graduate in statistics seeking an entry role. Dates and English proficiency unspecified.","skills":[],"years":null,"english":null},
+    {"id":"test-engineer","split":"held-out","text":"Data Engineering: Python SQL Airflow Spark Kafka dbt AWS Docker. 5 years of experience. English C1.","skills":["python","sql","airflow","spark","kafka","dbt","aws","docker"],"years":5,"english":"C1"},
+    {"id":"test-analyst-uk","split":"held-out","text":"Аналітик даних: Python, SQL, Excel, PowerBI. 2 роки досвіду. Англійська B2.","skills":["python","sql","excel","power bi"],"years":2,"english":"B2"},
+    {"id":"test-ml","split":"held-out","text":"ML engineer: PyTorch, TensorFlow, NumPy, scikit-learn and MLflow. English: B2. 3 years of experience.","skills":["pytorch","tensorflow","numpy","scikit-learn","mlflow"],"years":3,"english":"B2"},
+    {"id":"test-negative","split":"held-out","text":"Analyst with SQL and Excel. I do not know Java or Python. English B1.","skills":["sql","excel"],"years":null,"english":"B1"},
+    {"id":"test-ambiguous-years","split":"held-out","text":"Developer using Python for 2 years and SQL for 3 years. Total professional experience is unspecified.","skills":["python","sql"],"years":null,"english":null},
+    {"id":"test-vocabulary","split":"held-out","text":"Computer vision engineer using Python, OpenCV and PyTorch. 4 years of experience. English C1.","skills":["python","opencv","pytorch"],"years":4,"english":"C1"},
+    {"id":"test-dates","split":"held-out","text":"Data analyst, employment 2021-2023. SQL, Tableau and BigQuery. This CV is written in English.","skills":["sql","tableau","bigquery"],"years":null,"english":null},
+    {"id":"test-systems","split":"held-out","text":"Systems developer using C++, C#, .NET, Linux and Git. 1.5 years of experience. English A2.","skills":["c++","c#",".net","linux","git"],"years":1.5,"english":"A2"}
+  ]
+}

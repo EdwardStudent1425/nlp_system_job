@@ -1,0 +1,111 @@
+{
+  "retrieved_at": "2026-11-15T16:11:01.226629+00:00",
+  "historical_dataset": "lang-uk/recruitment-dataset-job-descriptions-ukrainian",
+  "pages": [
+    {
+      "offset": 0,
+      "rows": 100,
+      "sha256": "4068ff2ad97c0182d598f40242fc26f64d1ca3f09573bf61b6212bf723d524f9",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=0&length=100",
+      "cache_file_timestamp": "2026-11-15T15:51:46.034549+00:00"
+    },
+    {
+      "offset": 1000,
+      "rows": 100,
+      "sha256": "d0037facdee84db6065dd1a45877167a568d968de55865a5e5cae3b72a0a5f7d",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=1000&length=100",
+      "cache_file_timestamp": "2026-11-15T16:07:11.872840+00:00"
+    },
+    {
+      "offset": 2000,
+      "rows": 100,
+      "sha256": "8aad193e1585c2d95cd2e5d4ab6c108356270b3b1762ec063454e8d5be0e4456",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=2000&length=100",
+      "cache_file_timestamp": "2026-11-15T16:07:12.333967+00:00"
+    },
+    {
+      "offset": 3000,
+      "rows": 100,
+      "sha256": "0e7ba96b65d707198b704b089450647bcbce05f2c084d35e604cf15e3accf48b",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=3000&length=100",
+      "cache_file_timestamp": "2026-11-15T16:07:13.003210+00:00"
+    },
+    {
+      "offset": 4000,
+      "rows": 100,
+      "sha256": "c7f9e422ee3a7a574db09e527e0da45e8b7b27c5167b409be5ba10ae46f050b7",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=4000&length=100",
+      "cache_file_timestamp": "2026-11-15T16:07:13.682595+00:00"
+    },
+    {
+      "offset": 4500,
+      "rows": 100,
+      "sha256": "b81bbb34307cbe8d1d6359ad94c2926c329a2d4df4bf98c0beb7c38c7aa65591",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=4500&length=100",
+      "cache_file_timestamp": "2026-11-15T16:11:01.893055+00:00"
+    },
+    {
+      "offset": 5000,
+      "rows": 100,
+      "sha256": "5416d20e341938744191562db8db57306a821473d0bc09f9e0bdc24e690a8001",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=5000&length=100",
+      "cache_file_timestamp": "2026-11-15T15:51:46.580944+00:00"
+    },
+    {
+      "offset": 10000,
+      "rows": 100,
+      "sha256": "465915fb2f47fe6d07f6f72f4d908b8702428d9a4fa52226cab84581eaa676a1",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=10000&length=100",
+      "cache_file_timestamp": "2026-11-15T15:51:47.096672+00:00"
+    },
+    {
+      "offset": 15000,
+      "rows": 100,
+      "sha256": "95fc243e7997fe4580d508ced615c6dd9c51727afacf5e202c636e7255a973e9",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=15000&length=100",
+      "cache_file_timestamp": "2026-11-15T15:51:47.774158+00:00"
+    },
+    {
+      "offset": 20000,
+      "rows": 100,
+      "sha256": "18dd0197077920f3313efb6815e186905591316c74a6b63d9b0e4abb122f1f03",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=lang-uk%2Frecruitment-dataset-job-descriptions-ukrainian&config=default&split=train&offset=20000&length=100",
+      "cache_file_timestamp": "2026-11-15T15:51:48.333345+00:00"
+    }
+  ],
+  "live_feed": {
+    "url": "https://jobs.dou.ua/vacancies/feeds/",
+    "items": 50,
+    "retrieved_at": "2026-11-15T16:07:13.959259+00:00",
+    "sample_fields": [
+      "title",
+      "link",
+      "description",
+      "pubDate",
+      "guid"
+    ],
+    "description_lengths": [
+      1453,
+      5258,
+      8829,
+      6064,
+      3428
+    ]
+  },
+  "sample": {
+    "rows": 1000,
+    "sha256": "deb67d32074cb3f0c992c41f13eeccf0659ed45bf76d85c0aa63beba3f5bf706",
+    "columns": [
+      "Company Name",
+      "English Level",
+      "Exp Years",
+      "Long Description",
+      "Long Description_lang",
+      "Position",
+      "Primary Keyword",
+      "Published",
+      "__index_level_0__",
+      "id"
+    ]
+  }
+}

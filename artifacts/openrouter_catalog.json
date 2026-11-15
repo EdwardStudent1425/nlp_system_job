@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-11-15T19:02:51.102616+00:00",
+  "url": "https://openrouter.ai/api/v1/models",
+  "generation_calls": 0,
+  "key_or_cv_sent": false,
+  "models": [
+    {
+      "id": "inclusionai/ling-3.2-flash:free",
+      "structured_outputs": true
+    },
+    {
+      "id": "baidu/ernie-5.5-flash-preview:free",
+      "structured_outputs": true
+    },
+    {
+      "id": "thinkingmachines/inkling-2-small:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "liquid/lfm-3-1.7b:free",
+      "structured_outputs": true
+    },
+    {
+      "id": "particle-ai/particle-1:free",
+      "structured_outputs": true
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "nvidia/nemotron-3.5-super-vl:free",
+      "structured_outputs": true
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "structured_outputs": true
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "cohere/north-mini-code:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "structured_outputs": false
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "structured_outputs": false
+    },
+    {
+      "id": "google/lyria-3-clip-preview",
+      "structured_outputs": false
+    }
+  ]
+}

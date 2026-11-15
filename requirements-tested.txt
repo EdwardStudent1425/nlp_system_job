@@ -1,0 +1,9 @@
+# Direct packages and NumPy pinned to the measured environment. Use with pip -c.
+pydantic==2.13.3
+httpx==0.28.1
+python-dotenv==1.1.0
+scikit-learn==1.4.0
+streamlit==1.67.0
+pypdf==7.1.0
+pytest==9.0.3
+numpy==1.26.4
